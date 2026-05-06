@@ -1,4 +1,3 @@
-# mba-college-compare-project
 # MBACompare
 
 MBACompare is a responsive React application for comparing online MBA programs in India. It helps students review universities side by side across fees, accreditation, rankings, salary data, placement support, scholarships, EMI options, ROI, and best-fit recommendations.

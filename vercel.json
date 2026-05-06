@@ -1,0 +1,19 @@
+{
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/compare",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/universities",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/unlock",
+      "destination": "/index.html"
+    }
+  ]
+}
